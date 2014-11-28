@@ -191,6 +191,7 @@
 		
 		$('.js-credit').on('click', function() {
 			$('.credits-row').slideToggle('250');
+			$("html, body").animate({ scrollTop: $(document).height() }, 250);
 		}) 
 
 

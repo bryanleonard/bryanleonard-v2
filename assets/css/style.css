@@ -414,7 +414,8 @@ body {
 	position: relative;
 }
 a{ 
-	color:#aaaaaa;
+	/*color:#aaaaaa;*/
+	color:#337ab7;
 	padding: 0;
 	margin: 0;
 	text-decoration: none; 
@@ -1066,7 +1067,7 @@ address a:hover {
     font-size: 16px;
     color: #282828;
     text-transform: uppercase;
-    font-weight: 300;   
+    font-weight: 70;   
     margin-top: 0;
     margin-bottom: 15px;
 }
@@ -1592,7 +1593,7 @@ a:focus {
 	.about-caption{margin-bottom: 20px; text-align: center;}
 	.bg-color{text-align: center;}
 	.team-details{margin-bottom: 30px;}
-	.header-nav{padding-bottom: 20px;}
+	.header-nav{padding-bottom: 15px;}
 	.nav-logo{float: right;}
 }
 @media(max-width:991px){
