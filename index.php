@@ -330,14 +330,14 @@ About<br>
 			<div class="row">
 
 				<!-- About Us Information -->
-				<div class="col-sm-6">                           
+				<div class="col-sm-7">                           
 					<div class="f-logo">
 						<h2>Location, location, location</h2>                                                                    
 					</div>
 				</div>
 				
 				<!-- Recent Posts -->
-				<div class="col-sm-6 f-inner f-inner-black">                        
+				<div class="col-sm-5 f-inner f-inner-black">                        
 					<div class="col-sm-2 text-center">
 						<i class="fa fa-map-marker fa-lg"></i> 
 					</div>
